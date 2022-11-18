@@ -35,7 +35,7 @@ if (process.client) {
 }
 
 export default {
-  name: 'InspirePage',
+  name: 'snsLandingPage',
   components: {
     ckeditor: CKEditor.component,
   },
